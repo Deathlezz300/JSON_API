@@ -3,6 +3,10 @@
     {
       "nombre": "alejandro@gmail.com",
       "clave": "hola12345"
+    },
+    {
+      "nombre":"usuario@gmail.com",
+      "clave":"usuario234"
     }
   ],
   "productos": [
@@ -10,7 +14,7 @@
       "url": "https://exitocol.vtexassets.com/arquivos/ids/2458637/consola-nintendo-switch-neon-joycon-nueva-version-2019.jpg?v=637298193778300000",
       "nombre": "Nintendo Switch",
       "categoria": "Consolas",
-      "precio": "250000",
+      "precio": "1.500.000",
       "descripcion": "Consola de videojuegos Nintendo Switch",
       "id": 1
     },
@@ -18,7 +22,7 @@
       "url": "https://dlcdnwebimgs.asus.com/gain/7e253a39-8b45-47cd-83d0-208eef4756af/",
       "nombre": "Asus tuf gaming",
       "categoria": "Computadoras",
-      "precio": "4500000",
+      "precio": "3.600.000",
       "descripcion": "Computador para video juegos Asus tuf gaming",
       "id": "792c66a3-e92c-4915-81a5-bd42972fa703"
     },
@@ -26,7 +30,7 @@
       "url": "data:image/jpeg;base64,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",
       "nombre": "Acer nitro 5",
       "categoria": "Computadoras",
-      "precio": "3500000",
+      "precio": "3.500.000",
       "descripcion": "Computadora acer nitro 5 para juegos",
       "id": "4edf44b4-9757-4d97-a525-93880658ed27"
     },
@@ -34,17 +38,107 @@
       "url": "https://exitocol.vtexassets.com/arquivos/ids/15702116/Computador-Portatil-HP-AMD-Ryzen-5-5500U-16-GB-512-GB-SSD-15-ef2501la-3210375_a.jpg?v=638052293211500000",
       "nombre": "Portatil HP",
       "categoria": "Computadoras",
-      "precio": "2500000",
-      "descripcion": "HP 14 portátil con AMD Ryzen 5 5500U, 8 GB de RAM, unidad de estado sólido con 256 GB de almacenamiento",
+      "precio": "2.500.000",
+      "descripcion": "HP 14 portátil con AMD Ryzen 5 5500U, 8 GB de RAM, unidad de estado sólido con 256 GB de almacenamiento, pantalla Full HD de 14 pulgadas, Windows 10 Home, laptop delgada y portátil, pantalla antirreflejo con microborde, batería de larga duración",
       "id": "d021969e-dd11-4571-8e90-67a7ab1ae697"
     },
     {
       "url": "https://masterspc.com.co/product_images/category_21/product_70.png",
       "nombre": "Red dragon K552",
       "categoria": "Diversos",
-      "precio": "150000",
+      "precio": "150.000",
       "descripcion": "Todos sus componentes están diseñados para\nsoportar las exigencias del juego competitivo\nde alta intensidad. Está preparado para resistir,\nademás, derrames y salpicaduras, gracias a su\nsistema de drenando y sus switches tipo box",
       "id": "ab876543-fbee-4868-a49c-35fac5c010f5"
+    },
+    {
+      "url":"https://www.ktronix.com/medias/097855137708-001-750Wx750H?context=bWFzdGVyfGltYWdlc3w0OTM1MnxpbWFnZS9qcGVnfGltYWdlcy9oNWUvaGUzLzk2NTMwMjk4OTYyMjIuanBnfDk5YmY3OTNlMTEwNTZmYzc4ODJkMjU2OWJhZDIyMjAxYjZiMmFkMGE0ZTY4ZDRmZDc5YTZiMGJmNDhkZDJlZGM",
+      "nombre":"Logitech g305",
+      "categoria":"Diversos",
+      "precio":"180.000",
+      "descripcion":"El Mouse LOGITECH G inalámbrico Óptico Gaming G305 Negro es ideal para tus juegos.| Está diseñado para que obtengas un desempeño excelente con las innovaciones tecnológicas más recientes. G305 presenta el gaming inalámbrico para todos. Cargado con opciones avanzadas, sensor óptico HERO"
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_976683-MLA45317779701_032021-O.jpg",
+      "nombre":"Teclado VSG quasar",
+      "categoria":"Diversos",
+      "precio":"240.000",
+      "descripcion":"Este teclado VSG de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto, y hacer que tus jugadas alcancen otro nivel."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_749191-MCO49032287829_022022-O.jpg",
+      "nombre":"Taza de cafe Mario Bross",
+      "categoria":"Diversos",
+      "precio":"40.000",
+      "descripcion":"la taza esta inspirada en el clasico de juegos de video primero lanzado en los años ochenta, cuando frio muestra un fondo normal mario nivel pero cuando una bebida caliente aparecen fondo los cambios de color y detalles adicionales cuentos como monedas enemigos nubes y mario a si mismo."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_810667-MLA45258775954_032021-O.webp",
+      "nombre":"Razer Nari Essentials",
+      "categoria":"Diversos",
+      "precio":"340.000",
+      "descripcion":"¡Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los Razer Nari Essential no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores"
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_667328-MLA46924832031_072021-O.jpg",
+      "nombre":"Redmi Note 10s",
+      "categoria":"Diversos",
+      "precio":"850.000",
+      "descripcion":"Fotografía profesional en tu bolsillo Descubre infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_894333-MLA51165023913_082022-O.webp",
+      "nombre":"Asus M515DA",
+      "categoria":"Computadoras",
+      "precio":"2.450.000",
+      "descripcion":"La laptop Asus M515DA es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_621087-MLA52537211561_112022-O.webp",
+      "nombre":"Apple MackBook Pro 2020",
+      "categoria":"Computadoras",
+      "precio":"6.000.000",
+      "descripcion":"El chip M1 de Apple redefine al Macbook Pro de 13 pulgadas.(1) Viene con una CPU de 8 núcleos que permite un rendimiento óptimo en los flujos de trabajo más exigentes, como fotografía, programación y edición de video. La sorprendente GPU de 8 núcleos ofrece un rendimiento asombroso en procesos gráficos complejos y una experiencia de juego increíblemente fluida"
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_922690-MLA46389009777_062021-O.webp",
+      "nombre":"Lenovo IdeaPad 14IIL05",
+      "categoria":"Computadoras",
+      "precio":"2.159.000",
+      "descripcion":"El ordenador Lenovo IdeaPad 3 fue pensado para hacer tu vida más sencilla. Su diseño elegante e innovador y su comodidadpara transportarlo, lo convertirá en tu PC favorita. Cualquier tarea que te propongas, ya sea en casa o en la oficina, la harás con facilidad gracias a su poderoso rendimiento."
+    },{
+      "url":"https://http2.mlstatic.com/D_NQ_NP_943856-MLA45733430276_042021-O.webp",
+      "nombre":"Play Station 4 slim",
+      "categoria":"Consolas",
+      "precio":"2.400.000",
+      "descripcion":"Adaptada a tus necesidades,Guarda tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 500 GB. Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-O.webp",
+      "nombre":"Play Station 5",
+      "categoria":"Consolas",
+      "precio":"3.659.000",
+      "descripcion":"PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_995465-MLA45731835097_042021-O.webp",
+      "nombre":"Xbox Series S",
+      "categoria":"Consolas",
+      "precio":"1.400.000",
+      "descripcion":"La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te diviertes con jugadores de todo el mundo."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_634621-MLA45731974326_042021-O.webp",
+      "nombre":"Xbox Series X",
+      "categoria":"Consolas",
+      "precio":"2.869.000",
+      "descripcion":"Adaptada a tus necesidades ,Guarda tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 1 TB. Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición. Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras juegas."
+    },
+    {
+      "url":"https://http2.mlstatic.com/D_NQ_NP_909032-MLA47920360780_102021-O.webp",
+      "nombre":"Nintendo Switch OLED",
+      "categoria":"Consolas",
+      "precio":"1.909.000",
+      "descripcion":"Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online"
     }
   ]
 }
