@@ -16,7 +16,7 @@
       "categoria": "Consolas",
       "precio": "1.500.000",
       "descripcion": "Consola de videojuegos Nintendo Switch",
-      "id": 1
+      "id": "1"
     },
     {
       "url": "https://dlcdnwebimgs.asus.com/gain/7e253a39-8b45-47cd-83d0-208eef4756af/",
@@ -55,7 +55,8 @@
       "nombre":"Logitech g305",
       "categoria":"Diversos",
       "precio":"180.000",
-      "descripcion":"El Mouse LOGITECH G inalámbrico Óptico Gaming G305 Negro es ideal para tus juegos.| Está diseñado para que obtengas un desempeño excelente con las innovaciones tecnológicas más recientes. G305 presenta el gaming inalámbrico para todos. Cargado con opciones avanzadas, sensor óptico HERO"
+      "descripcion":"El Mouse LOGITECH G inalámbrico Óptico Gaming G305 Negro es ideal para tus juegos.| Está diseñado para que obtengas un desempeño excelente con las innovaciones tecnológicas más recientes. G305 presenta el gaming inalámbrico para todos. Cargado con opciones avanzadas, sensor óptico HERO",
+      "id":"2"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_976683-MLA45317779701_032021-O.jpg",
@@ -63,6 +64,7 @@
       "categoria":"Diversos",
       "precio":"240.000",
       "descripcion":"Este teclado VSG de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto, y hacer que tus jugadas alcancen otro nivel."
+      ,"id":"3"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_749191-MCO49032287829_022022-O.jpg",
@@ -70,6 +72,7 @@
       "categoria":"Diversos",
       "precio":"40.000",
       "descripcion":"la taza esta inspirada en el clasico de juegos de video primero lanzado en los años ochenta, cuando frio muestra un fondo normal mario nivel pero cuando una bebida caliente aparecen fondo los cambios de color y detalles adicionales cuentos como monedas enemigos nubes y mario a si mismo."
+      ,"id":"4"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_810667-MLA45258775954_032021-O.webp",
@@ -77,6 +80,7 @@
       "categoria":"Diversos",
       "precio":"340.000",
       "descripcion":"¡Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los Razer Nari Essential no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores"
+      ,"id":"5"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_667328-MLA46924832031_072021-O.jpg",
@@ -84,6 +88,7 @@
       "categoria":"Diversos",
       "precio":"850.000",
       "descripcion":"Fotografía profesional en tu bolsillo Descubre infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados."
+      ,"id":"6"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_894333-MLA51165023913_082022-O.webp",
@@ -91,6 +96,7 @@
       "categoria":"Computadoras",
       "precio":"2.450.000",
       "descripcion":"La laptop Asus M515DA es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina."
+      ,"id":"7"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_621087-MLA52537211561_112022-O.webp",
@@ -98,6 +104,7 @@
       "categoria":"Computadoras",
       "precio":"6.000.000",
       "descripcion":"El chip M1 de Apple redefine al Macbook Pro de 13 pulgadas.(1) Viene con una CPU de 8 núcleos que permite un rendimiento óptimo en los flujos de trabajo más exigentes, como fotografía, programación y edición de video. La sorprendente GPU de 8 núcleos ofrece un rendimiento asombroso en procesos gráficos complejos y una experiencia de juego increíblemente fluida"
+      ,"id":"8"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_922690-MLA46389009777_062021-O.webp",
@@ -105,12 +112,15 @@
       "categoria":"Computadoras",
       "precio":"2.159.000",
       "descripcion":"El ordenador Lenovo IdeaPad 3 fue pensado para hacer tu vida más sencilla. Su diseño elegante e innovador y su comodidadpara transportarlo, lo convertirá en tu PC favorita. Cualquier tarea que te propongas, ya sea en casa o en la oficina, la harás con facilidad gracias a su poderoso rendimiento."
-    },{
+      ,"id":"9"
+      },
+      {
       "url":"https://http2.mlstatic.com/D_NQ_NP_943856-MLA45733430276_042021-O.webp",
       "nombre":"Play Station 4 slim",
       "categoria":"Consolas",
       "precio":"2.400.000",
       "descripcion":"Adaptada a tus necesidades,Guarda tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 500 GB. Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición."
+      ,"id":"10"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-O.webp",
@@ -118,6 +128,7 @@
       "categoria":"Consolas",
       "precio":"3.659.000",
       "descripcion":"PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos."
+      ,"id":"11"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_995465-MLA45731835097_042021-O.webp",
@@ -125,6 +136,7 @@
       "categoria":"Consolas",
       "precio":"1.400.000",
       "descripcion":"La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te diviertes con jugadores de todo el mundo."
+      ,"id":"12"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_634621-MLA45731974326_042021-O.webp",
@@ -132,6 +144,7 @@
       "categoria":"Consolas",
       "precio":"2.869.000",
       "descripcion":"Adaptada a tus necesidades ,Guarda tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 1 TB. Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición. Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras juegas."
+      ,"id":"13"
     },
     {
       "url":"https://http2.mlstatic.com/D_NQ_NP_909032-MLA47920360780_102021-O.webp",
@@ -139,6 +152,7 @@
       "categoria":"Consolas",
       "precio":"1.909.000",
       "descripcion":"Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online"
+      ,"id":"14"
     }
   ]
 }
